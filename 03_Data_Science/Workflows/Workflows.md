@@ -1,3 +1,10 @@
+---
+tags:
+  - data-science
+  - concept
+created: 2026-04-28
+---
+
 # Workflows
 
 Data science workflows provide a structured process to move from raw data to actionable outcomes.

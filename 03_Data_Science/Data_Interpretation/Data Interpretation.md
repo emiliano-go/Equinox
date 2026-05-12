@@ -1,3 +1,10 @@
+---
+tags:
+  - data-science
+  - concept
+created: 2026-04-28
+---
+
 **Data Interpretation** is the step where you **translate** analytical results into **meaningful insight** to make decisions.
 
 It's understanding, validating, and explaining the outputs of models and analyses  in a way that leads to actionable conclusions.

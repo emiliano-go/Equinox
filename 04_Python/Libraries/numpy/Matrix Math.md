@@ -1,3 +1,11 @@
+---
+tags:
+  - numpy
+  - python
+  - concept
+created: 2026-04-28
+---
+
 **Matrix Math** centers around **Dot Product** and **Matrix Multiplication**.
 
 > Also see [[07_Math/Linear_Algebra/Matrices|Linear Algebra: Matrices]] for mathematical references

@@ -1,3 +1,10 @@
+---
+tags:
+  - database
+  - concept
+created: 2026-04-28
+---
+
 A **junction table** is a table used to represent a [[Relational Databases#Many-to-Many|Many-to-Many]] relationship between two tables.
 
 Since relational databases don't support N:M relationships directly, you **decompose** them into two 1:N relationships using this intermediate table.

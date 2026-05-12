@@ -1,3 +1,9 @@
+---
+tags:
+  - definition
+created: 2026-04-28
+---
+
 A **constraint** is a **rule enforced by the database** that restricts the data that can be stored.
 
 It ensures

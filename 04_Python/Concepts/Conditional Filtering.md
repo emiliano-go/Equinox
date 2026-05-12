@@ -1,3 +1,10 @@
+---
+tags:
+  - python
+  - concept
+created: 2026-04-28
+---
+
 # Conditional Filtering
 
 Conditional filtering selects values that satisfy boolean conditions.

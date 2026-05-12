@@ -1,3 +1,11 @@
+---
+tags:
+  - numpy
+  - python
+  - concept
+created: 2026-04-28
+---
+
 This note covers the `numpy.linalg` module.
 
 > For the mathematics behind these functions, check [[07_Math/Linear_Algebra/Linear Algebra|Linear Algebra]].

@@ -1,3 +1,11 @@
+---
+tags:
+  - numpy
+  - python
+  - concept
+created: 2026-04-28
+---
+
 # NumPy Random
 
 This note covers random number generation in NumPy.

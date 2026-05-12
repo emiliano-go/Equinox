@@ -1,3 +1,10 @@
+---
+tags:
+  - data-science
+  - concept
+created: 2026-04-28
+---
+
 # OSEMN
 
 OSEMN is a data science workflow with five stages:

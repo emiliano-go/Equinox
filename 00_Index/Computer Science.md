@@ -1,3 +1,10 @@
+---
+tags:
+  - computer-science
+  - overview
+created: 2026-04-28
+---
+
 ### Definition
 Computer Science is an umbrella term that covers **code agnostic concepts** and 
 **design paradigms**.

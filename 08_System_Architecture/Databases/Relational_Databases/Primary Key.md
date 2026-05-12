@@ -1,3 +1,10 @@
+---
+tags:
+  - database
+  - concept
+created: 2026-04-28
+---
+
 A **Primary Key** is a [[Constraint]] that enforces:
 1. Uniqueness
 2. Non-nullability

@@ -1,3 +1,11 @@
+---
+tags:
+  - numpy
+  - python
+  - concept
+created: 2026-04-28
+---
+
 This note covers vectors in Numpy using 1D arrays.
 
 - Creation with `np.array`

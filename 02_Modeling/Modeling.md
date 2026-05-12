@@ -1,3 +1,10 @@
+---
+tags:
+  - data-science
+  - concept
+created: 2026-04-28
+---
+
 Modeling is the art of finding the correct algorithm that describes how known input data can predict unknown output values. 
 
 This is the most difficult part of the OSEMN workflow.

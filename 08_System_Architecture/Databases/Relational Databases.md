@@ -1,3 +1,11 @@
+---
+tags:
+  - system-architecture
+  - database
+  - concept
+created: 2026-04-28
+---
+
 ## Tables
 
 A table, also called entity or relation, is a data structure composed by tuples and attributes.

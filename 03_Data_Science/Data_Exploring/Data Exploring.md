@@ -1,3 +1,10 @@
+---
+tags:
+  - data-science
+  - concept
+created: 2026-04-28
+---
+
 Data exploring focuses on **understanding** data quality, patterns, distributions, and relationships.
 
 There are several data exploration techniques. The most common ones are:

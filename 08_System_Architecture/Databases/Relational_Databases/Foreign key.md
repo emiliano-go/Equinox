@@ -1,3 +1,10 @@
+---
+tags:
+  - database
+  - concept
+created: 2026-04-28
+---
+
 A **foreign key** is an attribute in one table that **references the [[Primary Key]]** of another table.
 
 #### Internal Behavior

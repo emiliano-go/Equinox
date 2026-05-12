@@ -1,3 +1,10 @@
+---
+tags:
+  - python
+  - concept
+created: 2026-04-28
+---
+
 Slicing is [[10_Atomic/Subscript Notation]] to get a subrange from a sequence.
 
 For any array, you can slice its contents.

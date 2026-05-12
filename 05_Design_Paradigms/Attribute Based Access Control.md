@@ -1,3 +1,10 @@
+---
+tags:
+  - design-paradigm
+  - concept
+created: 2026-04-28
+---
+
 **Attribute Based Access Control** (ABAC) is not based around "Who can do this" but "Due the current conditions satisfy the policy set here".
 
 The conditions can be **anything**: User, Type of User, Document Type, Dashboard Type, etc.

@@ -1,3 +1,11 @@
+---
+tags:
+  - numpy
+  - python
+  - concept
+created: 2026-04-28
+---
+
 This note covers matrices in Numpy using 2D arrays.
 
 - Shape and dimensions
@@ -73,4 +81,4 @@ np.vstack((a, b))
 np.hstack((a, b))
 ```
 
-For multidimensional indexing and advanced slice patterns, see [[04_Python/Libraries/Libraries/numpy/Multidimensional Slicing|Multidimensional Slicing]].
+For multidimensional indexing and advanced slice patterns, see [[04_Python/Libraries/numpy/Multidimensional Slicing|Multidimensional Slicing]].

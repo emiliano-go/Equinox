@@ -1,3 +1,11 @@
+---
+tags:
+  - math
+  - linear-algebra
+  - concept
+created: 2026-04-28
+---
+
 # Introduction
 
 The equation $A\mathbf{x} = \mathbf{b}$ uses the language of linear combinations. 
