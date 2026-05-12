@@ -2,7 +2,6 @@
 tags:
   - data-science
   - overview
-  - osemn
 created: 2026-04-16
 ---
 

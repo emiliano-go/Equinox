@@ -1,7 +1,6 @@
 ---
 tags:
   - numpy
-  - broadcasting
 created: 2026-04-28
 ---
 

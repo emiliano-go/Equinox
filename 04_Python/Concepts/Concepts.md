@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepts
+  - concept
   - overview
 created: 2026-04-18
 ---

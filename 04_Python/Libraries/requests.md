@@ -2,7 +2,6 @@
 tags:
   - python
   - library
-  - http
 created: 2026-04-20
 ---
 

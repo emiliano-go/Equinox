@@ -1,7 +1,7 @@
 ---
 tags:
   - python
-  - data-types
+  - data-type
   - overview
 created: 2026-04-16
 ---

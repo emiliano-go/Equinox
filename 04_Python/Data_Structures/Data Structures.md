@@ -1,7 +1,7 @@
 ---
 tags:
   - python
-  - data-structures
+  - data-structure
   - overview
 created: 2026-04-16
 ---

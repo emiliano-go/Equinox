@@ -1,6 +1,6 @@
 ---
 tags:
-  - libraries
+  - library
   - overview
 created: 2026-04-18
 ---
