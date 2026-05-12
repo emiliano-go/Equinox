@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "03bf465f999c83af",
+        "id": "811a55db43be8d58",
         "type": "tabs",
         "children": [
           {
-            "id": "1d901b8c5e5fa8c2",
+            "id": "309ceedd12b41b62",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Python/Libraries/pandas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pandas"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master.md",
+                "file": "05_Design_Paradigms/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Master"
+              "title": "Backlinks for Normalization"
             }
           },
           {
@@ -185,50 +183,50 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1d901b8c5e5fa8c2",
+  "active": "309ceedd12b41b62",
   "lastOpenFiles": [
-    "04_Python/Data_Structures/DataFrame.md",
     "04_Python/Libraries/pandas.md",
-    "03_Data_Science/Data_Processing/Merging Data.md",
+    "04_Python/Data_Structures/DataFrame.md",
+    "11_LibreCourseUY/Codenights.md",
+    "00_Index/LibreCourseUY.md",
+    "11_LibreCourseUY/Projects.md",
+    "Initial Challenges.md",
+    "Vault Index.md",
+    "11_LibreCourseUY/Codenights/09_05_2026.md",
+    "fastapi.tiangolo.com.md",
+    "11_LibreCourseUY/Codenights",
+    "11_LibreCourseUY",
+    "03_Data_Science/Data Acquisition/Synthetic Data.md",
+    "00_Index/Atomic.md",
+    "04_Python/Libraries/numpy/Multidimensional Slicing.md",
+    "08_System_Architecture/Systems Architecture.md",
+    "09_Core_Abstractions/Lambda Functions.md",
+    "05_Design_Paradigms/Normalization.md",
+    "08_System_Architecture/Databases/Relational Databases.md",
+    "08_System_Architecture/Databases/Relational_Databases/Index.md",
     "assets/image-darkmodifier/Merging_Data-1778169763188_8c37511fc7ac_darkmode_dark.png",
     "Assets/Merging Data/Merging Data-1778169763188.png",
     "Assets/Merging Data",
-    "04_Python/Libraries/pandas",
-    "06_Statistical_Analysis/Statistical Analysis.md",
-    "06_Statistical_Analysis/Benford's Law.md",
-    "07_Math/Linear_Algebra/Linear Algebra.md",
+    "07_Math/Linear_Algebra/Linear Independence.md",
     "07_Math/Linear_Algebra/Coplanarity.md",
     "07_Math/Linear_Algebra/Collinearity.md",
-    "07_Math/Linear_Algebra/Linear Independence.md",
-    "07_Math/Linear_Algebra/Linear Combination.md",
-    "07_Math/Linear_Algebra/Problems/Problem Set 1.1.md",
-    "07_Math/Linear_Algebra/Problems",
-    "assets/image-darkmodifier/Linear_Algebra-1777926345664_560fd133b7c9_darkmode_dark.png",
+    "06_Statistical_Analysis/Benford's Law.md",
+    "03_Data_Science/Data_Processing/Merging Data.md",
     "assets/image-darkmodifier/Linear_Algebra-1777929856834_0421c5bbce55_darkmode_dark.png",
+    "assets/image-darkmodifier/Linear_Algebra-1777926345664_560fd133b7c9_darkmode_dark.png",
     "assets/image-darkmodifier",
     "assets",
-    "10_Atomic/Constraint.md",
-    "09_Core_Abstractions/Algorithms/B-Tree.md",
+    "Linear Independence.md",
+    "Coplanarity.md",
+    "Collinearity.md",
+    "07_Math/Linear_Algebra/Problems/Problem Set 1.1.md",
+    "07_Math/Linear_Algebra/Problems",
     "09_Core_Abstractions/Algorithms",
     "09_Core_Abstractions",
-    "08_System_Architecture/Databases/Relational_Databases/Primary Key.md",
-    "08_System_Architecture/Databases/Relational_Databases/Junction Table.md",
-    "08_System_Architecture/Databases/Relational_Databases/Index.md",
-    "08_System_Architecture/Databases/Relational_Databases/Foreign key.md",
     "08_System_Architecture/Databases/Relational_Databases",
-    "08_System_Architecture/Databases/Relational Databases.md",
-    "08_System_Architecture/Systems Architecture.md",
-    "08_System_Architecture/Databases.md",
     "08_System_Architecture/Databases",
-    "08_System_Architecture",
     "Assets/Linear Algebra/Linear Algebra-1777929856834.png",
     "Assets/Linear Algebra/Linear Algebra-1777926345664.png",
-    "05_Design_Paradigms/Design Paradigms.md",
-    "05_Design_Paradigms/Role Based Access Control.md",
-    "05_Design_Paradigms/Attribute Based Access Control.md",
-    "00_Index/Atomic.md",
-    "00_Index/Python.md",
-    "04_Python/Data_Types/Data Types.md",
     "Assets/Pasted image 20260109111005.png",
     "Assets/shell/shell-1767981036576.png",
     "Assets/image 2.png",
