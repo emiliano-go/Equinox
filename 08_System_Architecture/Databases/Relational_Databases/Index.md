@@ -1,3 +1,10 @@
+---
+tags:
+  - database
+  - concept
+created: 2026-04-28
+---
+
 An **Index** is a **separate data structure** that improves query speed.
 
 #### Internal Structure
@@ -29,5 +36,28 @@ CREATE INDEX idx_name ON Students(name);
 ##### Composite Index
 
 ```sql
-CREATE INDEX 
+CREATE INDEX idx_name_age ON Students(name, age) 
 ```
+
+Order matters:
+- Works for `(name)`
+- Works for `(name, age)`
+- **NOT** for `(age)` alone
+
+##### Unique Index
+Enforces Uniqueness (like a Primary Key)
+
+##### Clustered vs Non-clustered
+_Clustered_: Data stored in index order
+*Non-clustered*: Separate structure pointing to rows
+
+### Trade-offs
+##### Pros
+- Faster reads
+- Faster joins
+- Efficient filtering
+
+##### Cons
+- Slower inserts/updates/deletes
+- More storage
+- Maintenance overhead

@@ -3,7 +3,6 @@ tags:
   - pandas
   - library
   - python
-  - data-manipulation
 created: 2026-04-16
 ---
 
@@ -483,3 +482,102 @@ The `drop_duplicates()` method returns the resulting data **after** removing dup
 df["Name"].drop_duplicates()
 ```
 
+## Mapping
+
+**Mapping** is a function that pulls data corresponding to a common key from one (reference) table to the other.
+
+For example, `anime_list` has a column, `watching_status`, which contains numeric codes that represent a user's anime watching status, such as 1 for "Watching", 2 for "Completed", 3 for "On-Hold", 4 for "Dropped", and 6 for "Plan to Watch". We also know that other values, 0, 5, 33, 55, are invalid statuses, so we will drop those rows.
+
+First, prepare a dictionary that maps each code to its category name.
+
+```python
+# Reference data
+
+status_map = {
+	1: "Watching",
+	2: "Completed",
+	3: "On-Hold",
+	4: "Dropped",
+	6: "Plan to Watch"
+}
+```
+
+Then we apply it to the watching_status column.
+
+```python
+# Drop invalid rows first
+invalid_status = [0, 5, 33, 55]
+
+# Use ~ to represent NOT
+anime_list = anime_list[~anime_list['watching_status'].isin(invalid_status)]
+anime_list["status_label"] = anime_list["watching_status"].map(status_map)
+```
+
+You can also use a [[Lambda Functions|lambda function]] to map data.
+
+```python
+anime_data_extracted['ScoreCategory'] = anime_data_extracted['Score'].map(lambda x: 'Low' if x < 5 else ('Average' if x <= 7 else 'High'))
+```
+
+### Bin Splitting
+
+This is a useful feature when you want to divide data into some discrete range for aggregation.
+
+For example, as shown below, you can prepare a list to bin the scores per anime. Since the scores range from 0 to 10, let's create 5 bins (0 to 2, 2 to 4, ...). We use Pandas' `pd.cut()` function for bin splitting. In the `pd.cut()` function, the first argument is the data to be split and the second argument is the boundary value to be split.
+
+```python
+scores = [0, 2, 4, 6, 8, 10]
+
+anime_data_cut_by_score = pd.cut(anime_data_extracted["Score"], scores)
+```
+
+The "(8, 10]" means that it **does not** include 8 but **does** include 10. In other words, the specified criterion is used as the delimiter "more than ~ and less than or equal to ~". This behavior can be changed by specifying the `left` or `right` option to the `pd.cut()` function.
+
+## Missing Data
+
+When handling data, there is always the presence of missing data and outlier data. In this section, you will learn how to determine and handle missing and abnormal data at a basic foundation level.
+
+We will use the `data` dataset. The data contains `Unknown`, which should be treated as missing values. We will first convert all missing values as NaNs (`np.nan`).
+
+```python
+data = anime_data.replace('Unknown', np.nan)
+```
+
+### Listwise Deletion
+
+To remove all rows with NaNs, use the `dropna()` method. This is called **listwise deletion**.
+
+```python
+data.dropna()
+```
+
+### Pairwise Deletion
+
+As you can see from the results, listwise deletion can lead to a situation where the original 10 rows of data are extremely small and the data is completely unusable. In this case, there is a way to ignore the missing column data and use only the available data. This is called **pairwise deletion**. In pairwise deletion, the `dropna` method is applied after extracting the columns you want to use.
+
+### Fill with `fillna`
+
+Another method is to use `fillna()` method by passing a value to fill in the `NaN`.
+
+For example, we can fill the missing values in `Score` with -1 using `fillna(-1)`.
+
+```python
+data["Score"] = data["Score"].fillna(-1)
+```
+
+Another method is to use the mean value to fill in the blanks. This is called the **mean value assignment method** and uses the `mean` method. Note that when dealing with time series data, this method may include future information (missing data in the past is filled with a mean value using future data).
+
+```python
+df = pd.DataFrame(...)
+df.fillna(df.mean())
+```
+
+### Fill with the Previous Value
+The `ffill()` method can be applied to fill with the value of the previous row.
+
+```python
+df = pd.DataFrame(...)
+df.ffill()
+```
+
+This process can be used in financial time series data processing and is useful.
