@@ -9,7 +9,7 @@ created: 2026-04-20
 
 A two-dimensional table data structure in pandas.
 
-> See also: [[pandas]]
+> See also: [[04_Python/Libraries/pandas|pandas]]
 
 # DataFrame Methods
 

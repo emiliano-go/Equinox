@@ -9,4 +9,4 @@ created: 2026-04-20
 
 A one-dimensional array-like object in pandas.
 
-> See also: [[pandas]]
+> See also: [[04_Python/Libraries/pandas|pandas]]

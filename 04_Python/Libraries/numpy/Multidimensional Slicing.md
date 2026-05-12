@@ -1,3 +1,10 @@
+---
+tags:
+  - numpy
+  - python
+  - concept
+created: 2026-04-28
+---
 
 For **Numpy arrays** with more than 1 dimension, we slice by passing one selector per axis.
 

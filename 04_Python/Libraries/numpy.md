@@ -3,7 +3,6 @@ tags:
   - numpy
   - python
   - library
-  - numerical-computation
 created: 2026-04-20
 ---
 
@@ -11,8 +10,8 @@ created: 2026-04-20
 
 Almost all data can (and will eventually) be represented as vectors and matrices.
 
-[[Vectors]] are represented in numpy using 1D arrays. 
-[[Matrices]] are represented in numpy using 2D arrays.
+[[04_Python/Concepts/Vectors|Vectors]] are represented in numpy using 1D arrays. 
+[[04_Python/Concepts/Matrices|Matrices]] are represented in numpy using 2D arrays.
 
 In Libraries, the [[04_Python/Concepts/Import Conventions|convention]] is to import `numpy` as `np`.
 
@@ -98,7 +97,7 @@ Due to broadcasting, that translates to:
 res = [1,2,3,4] * [2,2,2,2]
 ```
 
-Details on how this works can be seen in [[Matrix Broadcasting]].
+Details on how this works can be seen in [[04_Python/Libraries/numpy/Matrix Broadcasting|Matrix Broadcasting]].
 
 **Broadcasting doesn't work for all matrices**. 
 
@@ -227,7 +226,7 @@ first = matrix[0][0]
 last = matrix[-1][-1]
 ```
 
-But numpy provides a better alternative: [[04_Python/Libraries/Libraries/numpy/Multidimensional Slicing|multidimensional slicing]].
+But numpy provides a better alternative: [[04_Python/Libraries/numpy/Multidimensional Slicing|multidimensional slicing]].
 
 **In short**:
 
@@ -389,4 +388,4 @@ LA.norm(A, ord=1) # Calculates the L1 norm = sum of absolute values
 LA.norm(A, ord=np.inf) # Calculates L∞, the largest absolute value
 ```
 
-See more in [[Numpy Linear Algebra|linear algebra with numpy]].
+See more in [[04_Python/Libraries/numpy/Numpy Linear Algebra|linear algebra with numpy]].
