@@ -581,3 +581,12 @@ df.ffill()
 ```
 
 This process can be used in financial time series data processing and is useful.
+
+### Dynamic labels
+
+When needing to create dynamic labels for **index** (eg: Group 1, Group 2, ..., Group *n*) we can use list comprehensions.
+
+```python
+result.index = [f"Group {i+1}" for i in range(n)]
+```
+
