@@ -18,8 +18,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "6366403d5894be88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11_LibreCourseUY/TL;DR/v0.1 TLDR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "v0.1 TLDR"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e242d1474fd531f",
@@ -183,17 +197,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "309ceedd12b41b62",
+  "active": "77fd6721fee05545",
   "lastOpenFiles": [
+    "11_LibreCourseUY/TL;DR",
+    "11_LibreCourseUY/Projects",
+    "04_Python/Libraries/matplotlib",
+    "11_LibreCourseUY/TL;DR/v0.1 TLDR.md",
+    "fastapi.tiangolo.com.md",
+    "11_LibreCourseUY/Weekly TLDR.md",
+    "00_Index/LibreCourseUY.md",
+    "04_Python/Libraries/matplotlib.md",
+    "04_Python/Libraries/matplotlib/Format String.md",
+    "04_Python/Concepts/Vectors.md",
+    "04_Python/Libraries/Libraries.md",
     "04_Python/Libraries/pandas.md",
+    "assets/image-darkmodifier/matplotlib-1778623413216_2caf1d31431c_darkmode_dark.png",
+    "Assets/matplotlib/matplotlib-1778623413216.png",
+    "assets/image-darkmodifier/matplotlib-1778623383295_a206c2843117_darkmode_dark.png",
+    "Assets/matplotlib/matplotlib-1778623383295.png",
+    "Assets/matplotlib",
+    "03_Data_Science/Data_Exploring/Data Exploring.md",
+    "03_Data_Science/Data_Exploring/Exploratory Data Analysis.md",
+    "assets/image-darkmodifier/Exploratory_Data_Analysis-1778621488934_5e8601c883fe_darkmode_dark.png",
+    "Assets/Exploratory Data Analysis/Exploratory Data Analysis-1778621488934.png",
+    "Assets/Exploratory Data Analysis",
     "04_Python/Data_Structures/DataFrame.md",
     "11_LibreCourseUY/Codenights.md",
-    "00_Index/LibreCourseUY.md",
     "11_LibreCourseUY/Projects.md",
-    "Initial Challenges.md",
+    "11_LibreCourseUY/Projects/Initial Challenges.md",
     "Vault Index.md",
     "11_LibreCourseUY/Codenights/09_05_2026.md",
-    "fastapi.tiangolo.com.md",
     "11_LibreCourseUY/Codenights",
     "11_LibreCourseUY",
     "03_Data_Science/Data Acquisition/Synthetic Data.md",
@@ -207,29 +240,10 @@
     "assets/image-darkmodifier/Merging_Data-1778169763188_8c37511fc7ac_darkmode_dark.png",
     "Assets/Merging Data/Merging Data-1778169763188.png",
     "Assets/Merging Data",
-    "07_Math/Linear_Algebra/Linear Independence.md",
-    "07_Math/Linear_Algebra/Coplanarity.md",
-    "07_Math/Linear_Algebra/Collinearity.md",
-    "06_Statistical_Analysis/Benford's Law.md",
-    "03_Data_Science/Data_Processing/Merging Data.md",
     "assets/image-darkmodifier/Linear_Algebra-1777929856834_0421c5bbce55_darkmode_dark.png",
     "assets/image-darkmodifier/Linear_Algebra-1777926345664_560fd133b7c9_darkmode_dark.png",
     "assets/image-darkmodifier",
     "assets",
-    "Linear Independence.md",
-    "Coplanarity.md",
-    "Collinearity.md",
-    "07_Math/Linear_Algebra/Problems/Problem Set 1.1.md",
-    "07_Math/Linear_Algebra/Problems",
-    "09_Core_Abstractions/Algorithms",
-    "09_Core_Abstractions",
-    "08_System_Architecture/Databases/Relational_Databases",
-    "08_System_Architecture/Databases",
-    "Assets/Linear Algebra/Linear Algebra-1777929856834.png",
-    "Assets/Linear Algebra/Linear Algebra-1777926345664.png",
-    "Assets/Pasted image 20260109111005.png",
-    "Assets/shell/shell-1767981036576.png",
-    "Assets/image 2.png",
-    "Assets/image 1.png"
+    "07_Math/Linear_Algebra/Problems"
   ]
 }
