@@ -19,3 +19,6 @@ Common Python libraries used in data science and programming.
 - [[requests]]: HTTP requests for fetching data from the web.
 - [[zipfile]]: Read and write ZIP archives.
 - [[io]]: Handle various I/O types (text, binary, raw bytes).
+
+## Data Analytics
+- [[matplotlib]]:  A comprehensive library for creating static, animated, and interactive visualizations in Python.
