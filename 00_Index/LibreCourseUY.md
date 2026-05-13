@@ -2,6 +2,7 @@ LibreCourseUY Initiative.
 
 [[Codenights]]
 [[Projects]]
+[[Weekly TLDR]]
 
 Welcome to LibreCourseUY's dev log!
 
