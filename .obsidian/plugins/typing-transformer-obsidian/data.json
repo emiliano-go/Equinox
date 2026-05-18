@@ -1,0 +1,13 @@
+{
+  "debug": false,
+  "convertRules": "\n# Line head conversion\n# Note: this rule can't apply to the very first line of the document\n'\\n》|' -> '\\n>|'\n'\\n、|' -> '\\n/|'\n\n# CN symbols to EN\n'。。|' -> '.|'\n'》》|' -> '>|'\n'、、|' -> '/|'\n'；；|' -> ';|'\n'，，|' -> ',|'\n\n# Auto-pair, Input Conversion, and Deletion\n'《《|》' -> '<|' # this one take higer priority than the next line\n'《|'    -> '《|》'\n'《|》'   -x '|'\n'（（|）' -> '(|)'\n'（|'     -> '（|）'\n'（|）'   -x '|'\n'$|'   -> '$|$'\n'$|$'  -x '|'\n\n# Auto code block\n'··|'  -> '`|`' # inline block\n'`·|`' -> '```|\\n```'\n\n# have fun converting!\n'dpx|' -> 'don\\'t panic|'\n\n\n# Selection Insert Rules\n'·'  -> '`' + '`'\n'￥'  -> '$' + '$'\n'《'  -> '《' + '》'\n'<'  -> '<' + '>'\n",
+  "zoneIndicatorOn": false,
+  "autoFormatOn": true,
+  "profiles": [
+    {
+      "title": "global",
+      "content": "\n# Line head conversion\n# Note: this rule can't apply to the very first line of the document\n'\\n》|' -> '\\n>|'\n'\\n、|' -> '\\n/|'\n\n# CN symbols to EN\n'。。|' -> '.|'\n'》》|' -> '>|'\n'、、|' -> '/|'\n'；；|' -> ';|'\n'，，|' -> ',|'\n\n# Auto-pair, Input Conversion, and Deletion\n'《《|》' -> '<|' # this one take higer priority than the next line\n'《|'    -> '《|》'\n'《|》'   -x '|'\n'（（|）' -> '(|)'\n'（|'     -> '（|）'\n'（|）'   -x '|'\n'$|'   -> '$|$'\n'$|$'  -x '|'\n\n# Auto code block\n'··|'  -> '`|`' # inline block\n'`·|`' -> '```|\\n```'\n\n# have fun converting!\n'dpx|' -> 'don\\'t panic|'\n\n\n# Selection Insert Rules\n'·'  -> '`' + '`'\n'￥'  -> '$' + '$'\n'《'  -> '《' + '》'\n'<'  -> '<' + '>'\n"
+    }
+  ],
+  "activeProfile": "global"
+}

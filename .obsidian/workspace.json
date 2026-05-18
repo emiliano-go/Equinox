@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "6366403d5894be88",
+            "id": "008557f7e348e5a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_LibreCourseUY/TL;DR/v0.1 TLDR.md",
+                "file": "00_Index/Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v0.1 TLDR"
+              "title": "Data Science"
             }
           }
         ],
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e242d1474fd531f",
@@ -197,53 +198,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77fd6721fee05545",
+  "active": "008557f7e348e5a1",
   "lastOpenFiles": [
+    "07_Math/Linear_Algebra/Linear Algebra.md",
+    "00_Index/Data Science.md",
+    "02_Machine_Learning/Machine Learning.md",
+    "02_Machine_Learning/Modeling.md",
+    "08_System_Architecture/Databases/Relational Databases.md",
+    "11_LibreCourseUY/Projects.md",
+    "00_Index/LibreCourseUY.md",
+    "11_LibreCourseUY/Projects/Audit Log Microservices.md",
+    "assets/image-darkmodifier/Linear_Algebra-1779056249818_7fa85cac1003_darkmode_dark.png",
+    "Assets/Linear Algebra/Linear Algebra-1779056249818.png",
+    "Assets/Linear Algebra/Linear Algebra-1779056194941.png",
+    "07_Math/Linear_Algebra/Linear Independence.md",
+    "04_Python/Libraries/matplotlib/Format String.md",
+    "07_Math/Linear_Algebra/Problems/Problem Set 1.1.md",
+    "assets/image-darkmodifier/Problem_Set_1_1-1778810047975_029c57125581_darkmode_dark.png",
+    "assets/image-darkmodifier/Problem_Set_1_1-1778810041935_b7b4f52ffb03_darkmode_dark.png",
+    "assets/image-darkmodifier/Problem_Set_1_1-1778810037348_424e130946cd_darkmode_dark.png",
+    "assets/image-darkmodifier/Problem_Set_1_1-1778810030539_1d39a2ba51ab_darkmode_dark.png",
+    "assets/image-darkmodifier/Problem_Set_1_1-1778810013214_02ac4168d5aa_darkmode_dark.png",
+    "Assets/Problem Set 1.1/Problem Set 1.1-1778810047975.png",
+    "Assets/Problem Set 1.1/Problem Set 1.1-1778810041935.png",
+    "Assets/Problem Set 1.1",
+    "Untitled 1.md",
+    "00_Index/Math.md",
+    "11_LibreCourseUY/TL;DR/v0.1 TLDR.md",
     "11_LibreCourseUY/TL;DR",
     "11_LibreCourseUY/Projects",
     "04_Python/Libraries/matplotlib",
-    "11_LibreCourseUY/TL;DR/v0.1 TLDR.md",
     "fastapi.tiangolo.com.md",
     "11_LibreCourseUY/Weekly TLDR.md",
-    "00_Index/LibreCourseUY.md",
     "04_Python/Libraries/matplotlib.md",
-    "04_Python/Libraries/matplotlib/Format String.md",
     "04_Python/Concepts/Vectors.md",
     "04_Python/Libraries/Libraries.md",
     "04_Python/Libraries/pandas.md",
-    "assets/image-darkmodifier/matplotlib-1778623413216_2caf1d31431c_darkmode_dark.png",
-    "Assets/matplotlib/matplotlib-1778623413216.png",
-    "assets/image-darkmodifier/matplotlib-1778623383295_a206c2843117_darkmode_dark.png",
-    "Assets/matplotlib/matplotlib-1778623383295.png",
     "Assets/matplotlib",
     "03_Data_Science/Data_Exploring/Data Exploring.md",
     "03_Data_Science/Data_Exploring/Exploratory Data Analysis.md",
-    "assets/image-darkmodifier/Exploratory_Data_Analysis-1778621488934_5e8601c883fe_darkmode_dark.png",
-    "Assets/Exploratory Data Analysis/Exploratory Data Analysis-1778621488934.png",
     "Assets/Exploratory Data Analysis",
     "04_Python/Data_Structures/DataFrame.md",
     "11_LibreCourseUY/Codenights.md",
-    "11_LibreCourseUY/Projects.md",
     "11_LibreCourseUY/Projects/Initial Challenges.md",
     "Vault Index.md",
-    "11_LibreCourseUY/Codenights/09_05_2026.md",
     "11_LibreCourseUY/Codenights",
     "11_LibreCourseUY",
-    "03_Data_Science/Data Acquisition/Synthetic Data.md",
-    "00_Index/Atomic.md",
-    "04_Python/Libraries/numpy/Multidimensional Slicing.md",
-    "08_System_Architecture/Systems Architecture.md",
-    "09_Core_Abstractions/Lambda Functions.md",
-    "05_Design_Paradigms/Normalization.md",
-    "08_System_Architecture/Databases/Relational Databases.md",
-    "08_System_Architecture/Databases/Relational_Databases/Index.md",
-    "assets/image-darkmodifier/Merging_Data-1778169763188_8c37511fc7ac_darkmode_dark.png",
-    "Assets/Merging Data/Merging Data-1778169763188.png",
     "Assets/Merging Data",
-    "assets/image-darkmodifier/Linear_Algebra-1777929856834_0421c5bbce55_darkmode_dark.png",
-    "assets/image-darkmodifier/Linear_Algebra-1777926345664_560fd133b7c9_darkmode_dark.png",
-    "assets/image-darkmodifier",
-    "assets",
-    "07_Math/Linear_Algebra/Problems"
+    "assets/image-darkmodifier"
   ]
 }
