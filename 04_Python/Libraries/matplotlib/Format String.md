@@ -1,3 +1,5 @@
+# Format String
+
 A format string consists of a part for color, marker and line:
 
 ```python
@@ -58,16 +60,16 @@ Example format strings:
 
 The supported color abbreviations are the single letter codes
 
-|character|color|
-|---|---|
-|`'b'`|blue|
-|`'g'`|green|
-|`'r'`|red|
-|`'c'`|cyan|
-|`'m'`|magenta|
-|`'y'`|yellow|
-|`'k'`|black|
-|`'w'`|white|
+| character | color   |
+| --------- | ------- |
+| `'b'`     | blue    |
+| `'g'`     | green   |
+| `'r'`     | red     |
+| `'c'`     | cyan    |
+| `'m'`     | magenta |
+| `'y'`     | yellow  |
+| `'k'`     | black   |
+| `'w'`     | white   |
 
 and the `'CN'` colors that index into the default property cycle.
 

@@ -5,6 +5,8 @@ tags:
 created: 2026-04-28
 ---
 
+# Slicing
+
 Slicing is [[10_Atomic/Subscript Notation]] to get a subrange from a sequence.
 
 For any array, you can slice its contents.

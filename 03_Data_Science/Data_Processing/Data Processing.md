@@ -5,6 +5,8 @@ tags:
 created: 2026-04-28
 ---
 
+# Data Processing
+
 **Data Processing** is the **Scrub** step of the OSEMN Workflow.
 
 The point of data processing is to turn unstructured, raw data, into a usable dataset to study.

@@ -5,6 +5,8 @@ tags:
 created: 2026-04-28
 ---
 
+# Merging Data
+
 There are **four** possible ways to join two datasets:
 - Inner join (INNER JOIN): Joins data when both have keys.
 - Left outer join (LEFT JOIN): Joins when the data on the left side has a key.
