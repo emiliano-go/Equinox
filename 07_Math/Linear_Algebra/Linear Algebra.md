@@ -142,3 +142,93 @@ If $u$ and $v$ are not parallel (i.e., they are [[Linear Independence]]), their 
 Graphically, you can think of $u$ and $v$ as two arrows defining a flat sheet through the origin; any weighted sum of them stays on that sheet. Thus, the condition "$w$ is a linear combination of $u$ and $v$" is exactly the algebraic test for [[Coplanarity]] (through the origin), assuming $u$ and $v$ are not [[Collinearity|collinear]]. 
 
 If $u$ and $v$ were parallel, the span would be just a line, not a plane, but then $u$, $v$, and $w$ would all lie on that line instead.
+
+## Lengths and Dot Products
+
+1. The "dot product" of $v = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$ and $w = \begin{bmatrix} 4 \\ 5 \end{bmatrix}$ is $v \cdot w = (1)(4) + (2)(5) = 4 + 10 = 14$.
+
+2. $v = \begin{bmatrix} 1 \\ 3 \\ 2 \end{bmatrix}$ and $w = \begin{bmatrix} 4 \\ -4 \\ 4 \end{bmatrix}$ are perpendicular because $v \cdot w$ is zero:  
+   $(1)(4) + (3)(-4) + (2)(4) = 4 + -12 + 8 = 0$.  
+
+3. The length squared of $v = \begin{bmatrix} 1 \\ 3 \\ 2 \end{bmatrix}$ is $v \cdot v = 1^2 + 3^2 + 2^2 = 1 + 9 + 4 = 14$. The length is $\|v\| = \sqrt{14}$.
+
+4. Then $u = \frac{v}{\|v\|} = \frac{1}{\sqrt{14}} \begin{bmatrix} 1 \\ 3 \\ 2 \end{bmatrix}$ has length $\|u\| = 1$. Check:  
+   $\frac{1}{14} + \frac{9}{14} + \frac{4}{14} = \frac{14}{14} = 1$.
+
+5. The angle $\theta$ between $v$ and $w$ has $\cos\theta = \frac{v \cdot w}{\|v\| \|w\|}$.
+
+6. The angle between $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$ and $\begin{bmatrix} 1 \\ 1 \end{bmatrix}$ has $\cos\theta = \frac{1}{\sqrt{2} \cdot 1} = \frac{1}{\sqrt{2}}$. That angle is $\theta = 45^\circ$.
+
+7. All angles have $|\cos\theta| \le 1$. So all vectors have $|v \cdot w| \le \|v\| \|w\|$ ([[Cauchy–Schwarz inequality]]).
+### Inner Product
+
+[[Inner product]], also called **dot product**, of $v = (v_{1}, v_{2})$ and $w = (w_{1}, w_{2})$ is the number $v \cdot w$:
+$$v \cdot w = v_{1}w_{1} + v_{2}w_{2}$$
+
+If the **dot product** of two vectors equals **0**, it means that those two vectors are **perpendicular.** The angle between them is 90º. 
+$$v \cdot w = w \cdot v$$
+##### Example
+We have three goods to buy and sell. Their prices are $(p1,p2,p3)$ for each unit-this is the "price **vector**" $p$. The quantities we buy or sell are $(q1,q2,q3)$, positive when we sell, negative when we buy.
+Selling $q1$ units at the price $p1$ brings in $q1p1$. The total income (quantities $q$ times prices
+$p$) is the dot product $q ·p$ in three dimensions:
+$$Income = (qi,q2,q3) · (p1,P2,p3) = q1p1 + q2p2 + q3p3 = \text{dot product}$$
+A **zero dot product** means that "the books balance". Total sales equal total purchases if
+$q · p = 0$. Then $p$ is perpendicular to $q$ (in three-dimensional space). A supermarket with
+thousands of goods goes quickly into high dimensions.
+
+**Important**
+For $v · w$, multiply each $v_{i}$ times $w_{i}$. Then $v · w = v_{1} w_{1} + · · · + v_{n}w_{n}$.
+
+### Length
+
+The dot product of a **vector with itself** gives the length squared: $$||v||² = \begin{bmatrix}
+1 \\
+2 \\
+3 \\
+
+\end{bmatrix} \cdot \begin{bmatrix}
+1 \\
+2 \\
+3
+\end{bmatrix} = 1 + + 9 = 14$$
+Because $v$ is not perpendicular to itself, the answer is not 0.
+
+The **length** $||v||$ of a vector $v$ is the square root of $v \cdot v$:
+$$\text{length} = ||v|| = \sqrt{ v \cdot v } = (v_{1}² + v_{2}² + \dots + v_{n}²)^{1/2}$$
+
+### Unit vector
+
+The word "unit" is always indicating that some measurement equals "one". The unit
+price is the price for one item. A unit cube has sides of length one. A unit circle is a circle
+with radius one. Now we see the meaning of a "unit vector".
+
+$$\text{A unit vector }u \text{ is a vector whose length equals one. Then }u \cdot u = 1$$
+
+**Definition**: $u = v / ||v||$ is a **unit vector in the same direction as $v$**.
+
+### The Angle between two Vectors
+
+Perpendicular vectors have $v \cdot w = 0$. The dot product is 0 **when the angle is 90º**. So:
+$$\text{The dot product is } v \cdot w = 0 \text{ when }v \text{ is perpendicular to }w$$
+#### Proof
+When $v$ and $w$ are perpendicular, they form two sides of a **right triangle**. The **third side** is $v - w$ (the **hypotenuse** of the triangle) The [[Pythagoras Law]] for the sides of a right triangle is $a^2 + b² = c²$:
+
+**Perpendicular vectors**: $||v||² + ||w||² = ||v - w||²$
+
+Writing out the formulas for those lengths in two dimensions, this equation is:
+$$(v_{1}² + c_{2}²)+(w_{1}²+w_{2}²)=(v_{1}-w_{1})²+(v_{2}-w_{2})²$$
+The right side begins with $v_{1}² - 2v_{1}w_{1} + w_{1}²$. Then, $v_{1}²$ and $w_{1}^2$ are on both sides of the equation and they cancel, leaving $-2v_{1}w_{1}$. Also $v_{2}²$ and $w_{2}^2$ cancel, leaving $-2v_{2}w_{2}$.
+Now, divide by $-2$ to see $v - w = 0$:
+$$ 0 = -2 v _{1}w_{1} \text{ which leads to } v _{1}w_{1}+v _{2}w_{2} = 0$$
+
+**Conclusion**: Right angles produce $v \cdot w = 0$. The **dot product** is zero when the angle $\theta = 90º$. Then $\cos \theta = 0$. The zero vector $v=0$ is perpendicular to every vector $w$ because $0 \cdot w$ is always zero.
+
+#### Properties
+
+If the **dot product** $v \cdot w = 0$ then the angle is $90º$.
+
+If the dot product is **positive**, then the angle $\theta$ is $\theta < 90$.
+
+If the dot product is **negative**, then the angle $\theta$ is $\theta > 90$.
+
+![[Linear Algebra-1779056249818.png | @darkmode]]
