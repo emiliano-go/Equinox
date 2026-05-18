@@ -18,6 +18,8 @@ This usually brings dashboards, graphs, and other **visual representations** of 
 
 The objective of this phase is not to understand every minor detail, but to get a good sense of the trends to make a proper model.
 
+To visualize data, we use tools like Power BI, Tableau and Python **libraries** like `matplotlib`.
+
 ### Exploratory Data Analysis
 
 [[Exploratory Data Analysis]] (EDA) is an iterative process combining analysis and visualization to understand data.
