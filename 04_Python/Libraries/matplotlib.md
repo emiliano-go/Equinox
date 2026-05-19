@@ -1,3 +1,8 @@
+---
+tags:
+  - python
+created: 2026-05-19
+---
 _Matplotlib_ is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 In matplotlib, most plotting functions are accessed through the `pyplot` module.

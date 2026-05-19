@@ -3,6 +3,7 @@ tags:
   - numpy
   - python
   - library
+  - linear-algebra
 created: 2026-04-20
 ---
 

@@ -2,6 +2,9 @@
 tags:
   - concept
   - overview
+  - python
+  - numpy
+  - pandas
 created: 2026-04-18
 ---
 

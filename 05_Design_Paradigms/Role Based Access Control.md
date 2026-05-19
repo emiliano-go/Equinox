@@ -1,10 +1,12 @@
 ---
 tags:
-  - design-paradigm
+  - design-paradigms
   - security
   - concept
 created: 2026-04-20
 ---
+
+# Role Based Access Control
 
 The concept of **Role Based Access Control (RBAC)** is based around defining what each role can do outside of function logic.
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - python
+created: 2026-05-19
+---
 # Format String
 
 A format string consists of a part for color, marker and line:

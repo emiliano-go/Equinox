@@ -2,6 +2,7 @@
 tags:
   - numpy
   - python
+  - io
 created: 2026-04-28
 ---
 

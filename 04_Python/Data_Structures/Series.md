@@ -2,6 +2,7 @@
 tags:
   - pandas
   - data-structure
+  - python
 created: 2026-04-20
 ---
 

@@ -2,6 +2,7 @@
 tags:
   - overview
   - statistics
+  - index
 created: 2026-04-18
 ---
 

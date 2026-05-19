@@ -2,8 +2,13 @@
 tags:
   - database
   - concept
+  - system-architecture
+  - databases
+  - io
 created: 2026-04-28
 ---
+
+# Primary Key
 
 A **Primary Key** is a [[Constraint]] that enforces:
 1. Uniqueness

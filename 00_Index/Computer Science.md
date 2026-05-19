@@ -2,8 +2,11 @@
 tags:
   - computer-science
   - overview
+  - index
 created: 2026-04-28
 ---
+
+# Computer Science
 
 ### Definition
 Computer Science is an umbrella term that covers **code agnostic concepts** and 

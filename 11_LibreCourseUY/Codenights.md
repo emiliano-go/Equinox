@@ -1,3 +1,11 @@
+---
+tags:
+  - overview
+created: 2026-05-19
+---
+
+# Codenights
+
 [[09_05_2026]]
 
 This section shows a log of every Codenight.

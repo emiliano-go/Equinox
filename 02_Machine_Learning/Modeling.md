@@ -1,3 +1,9 @@
+---
+tags:
+  - modeling
+  - workflow
+created: 2026-05-19
+---
 # Modeling
 
 Modeling is the art of finding the correct algorithm that describes how known input data can predict unknown output values. 

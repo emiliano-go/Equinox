@@ -2,6 +2,7 @@
 tags:
   - system-architecture
   - concept
+  - databases
 created: 2026-04-28
 ---
 

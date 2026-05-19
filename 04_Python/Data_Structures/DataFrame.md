@@ -2,6 +2,9 @@
 tags:
   - pandas
   - data-structure
+  - python
+  - numpy
+  - linear-algebra
 created: 2026-04-20
 ---
 

@@ -1,8 +1,9 @@
 ---
 tags:
-  - design-paradigm
+  - design-paradigms
   - database
   - concept
+  - io
 created: 2026-04-28
 ---
 

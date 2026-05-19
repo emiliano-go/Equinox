@@ -3,8 +3,12 @@ tags:
   - system-architecture
   - database
   - concept
+  - databases
+  - io
 created: 2026-04-28
 ---
+
+# Relational Databases
 
 ## Tables
 

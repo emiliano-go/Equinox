@@ -3,8 +3,11 @@ tags:
   - numpy
   - python
   - concept
+  - linear-algebra
 created: 2026-04-28
 ---
+
+# Numpy 1D Arrays
 
 This note covers vectors in Numpy using 1D arrays.
 

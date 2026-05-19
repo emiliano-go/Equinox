@@ -1,9 +1,11 @@
 ---
 tags:
-  - design-paradigm
+  - design-paradigms
   - concept
 created: 2026-04-28
 ---
+
+# Attribute Based Access Control
 
 **Attribute Based Access Control** (ABAC) is not based around "Who can do this" but "Due the current conditions satisfy the policy set here".
 

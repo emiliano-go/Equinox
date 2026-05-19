@@ -1,6 +1,6 @@
 ---
 tags:
-  - design-paradigm
+  - design-paradigms
   - overview
 created: 2026-04-20
 ---

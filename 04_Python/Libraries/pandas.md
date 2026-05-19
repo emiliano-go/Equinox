@@ -3,6 +3,8 @@ tags:
   - pandas
   - library
   - python
+  - numpy
+  - workflow
 created: 2026-04-16
 ---
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - overview
+created: 2026-05-19
+---
 # Projects
 
 The Projects Index! Where all projects are listed.

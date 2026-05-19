@@ -2,8 +2,11 @@
 tags:
   - data-science
   - concept
+  - io
 created: 2026-04-28
 ---
+
+# Data Acquisition
 
 Data acquisition is the process of collecting raw data from relevant sources.
 

@@ -3,8 +3,11 @@ tags:
   - numpy
   - python
   - concept
+  - linear-algebra
 created: 2026-04-28
 ---
+
+# Matrix Math
 
 **Matrix Math** centers around **Dot Product** and **Matrix Multiplication**.
 

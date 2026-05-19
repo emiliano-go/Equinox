@@ -1,6 +1,8 @@
 ---
 tags:
   - numpy
+  - python
+  - linear-algebra
 created: 2026-04-28
 ---
 

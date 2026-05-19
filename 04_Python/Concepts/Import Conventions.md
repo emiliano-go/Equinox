@@ -2,6 +2,9 @@
 tags:
   - python
   - convention
+  - io
+  - numpy
+  - pandas
 created: 2026-04-20
 ---
 

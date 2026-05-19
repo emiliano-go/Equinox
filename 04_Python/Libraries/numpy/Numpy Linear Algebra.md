@@ -3,8 +3,11 @@ tags:
   - numpy
   - python
   - concept
+  - linear-algebra
 created: 2026-04-28
 ---
+
+# Numpy Linear Algebra
 
 This note covers the `numpy.linalg` module.
 

@@ -2,8 +2,13 @@
 tags:
   - database
   - concept
+  - system-architecture
+  - databases
+  - io
 created: 2026-04-28
 ---
+
+# Index
 
 An **Index** is a **separate data structure** that improves query speed.
 

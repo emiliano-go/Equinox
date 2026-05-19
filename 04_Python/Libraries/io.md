@@ -2,6 +2,7 @@
 tags:
   - python
   - library
+  - io
 created: 2026-04-20
 ---
 

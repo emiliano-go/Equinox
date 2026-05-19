@@ -2,6 +2,8 @@
 tags:
   - numpy
   - concept
+  - python
+  - linear-algebra
 created: 2026-04-20
 ---
 

@@ -1,3 +1,12 @@
+---
+tags:
+  - index
+  - overview
+created: 2026-05-19
+---
+
+# LibreCourseUY
+
 LibreCourseUY Initiative.
 
 [[Codenights]]

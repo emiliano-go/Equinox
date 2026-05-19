@@ -2,6 +2,7 @@
 tags:
   - python
   - concept
+  - io
 created: 2026-04-20
 ---
 

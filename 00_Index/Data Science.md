@@ -2,6 +2,10 @@
 tags:
   - data-science
   - overview
+  - index
+  - numpy
+  - pandas
+  - workflow
 created: 2026-04-16
 ---
 

@@ -2,6 +2,8 @@
 tags:
   - python
   - concept
+  - io
+  - numpy
 created: 2026-04-28
 ---
 

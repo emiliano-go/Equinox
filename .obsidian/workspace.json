@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "811a55db43be8d58",
+        "id": "03bf465f999c83af",
         "type": "tabs",
         "children": [
           {
-            "id": "309ceedd12b41b62",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5795b1b9df6cb0a9",
+            "id": "1d901b8c5e5fa8c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Data_Science/Data_Interpretation/Data Interpretation.md",
+                "file": "07_Math/Linear_Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Interpretation"
+              "title": "Linear Algebra"
+            }
+          },
+          {
+            "id": "d14a12e0788a3386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Machine_Learning/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
             }
           }
         ],
@@ -91,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e242d1474fd531f",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Design_Paradigms/Normalization.md",
+                "file": "Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Normalization"
+              "title": "Backlinks for Master"
             }
           },
           {
@@ -198,53 +199,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5795b1b9df6cb0a9",
+  "active": "77fd6721fee05545",
   "lastOpenFiles": [
-    "03_Data_Science/Data_Interpretation/Data Interpretation.md",
-    "03_Data_Science/Data_Processing/Data Processing.md",
-    "03_Data_Science/Data_Exploring/Data Exploring.md",
-    "00_Index/Data Science.md",
-    "07_Math/Linear_Algebra/Linear Algebra.md",
+    "02_Machine_Learning/Machine_Learning/Reinforced Learning.md",
     "02_Machine_Learning/Machine Learning.md",
+    "02_Machine_Learning/Machine_Learning/Unsupervised Learning.md",
+    "07_Math/Linear_Algebra/Linear Algebra.md",
+    "02_Machine_Learning/Machine_Learning",
     "02_Machine_Learning/Modeling.md",
-    "08_System_Architecture/Databases/Relational Databases.md",
-    "11_LibreCourseUY/Projects.md",
-    "00_Index/LibreCourseUY.md",
-    "11_LibreCourseUY/Projects/Audit Log Microservices.md",
-    "assets/image-darkmodifier/Linear_Algebra-1779056249818_7fa85cac1003_darkmode_dark.png",
-    "Assets/Linear Algebra/Linear Algebra-1779056249818.png",
-    "Assets/Linear Algebra/Linear Algebra-1779056194941.png",
-    "07_Math/Linear_Algebra/Linear Independence.md",
-    "04_Python/Libraries/matplotlib/Format String.md",
-    "07_Math/Linear_Algebra/Problems/Problem Set 1.1.md",
+    "02_Machine_Learning/Machine_Learning/Supervised Learning.md",
+    "assets/image-darkmodifier/matplotlib-1778623413216_2caf1d31431c_darkmode_dark.png",
+    "assets/image-darkmodifier/matplotlib-1778623383295_a206c2843117_darkmode_dark.png",
     "assets/image-darkmodifier/Problem_Set_1_1-1778810047975_029c57125581_darkmode_dark.png",
     "assets/image-darkmodifier/Problem_Set_1_1-1778810041935_b7b4f52ffb03_darkmode_dark.png",
     "assets/image-darkmodifier/Problem_Set_1_1-1778810037348_424e130946cd_darkmode_dark.png",
     "assets/image-darkmodifier/Problem_Set_1_1-1778810030539_1d39a2ba51ab_darkmode_dark.png",
     "assets/image-darkmodifier/Problem_Set_1_1-1778810013214_02ac4168d5aa_darkmode_dark.png",
-    "Assets/Problem Set 1.1/Problem Set 1.1-1778810047975.png",
-    "Assets/Problem Set 1.1/Problem Set 1.1-1778810041935.png",
-    "Assets/Problem Set 1.1",
-    "Untitled 1.md",
-    "00_Index/Math.md",
-    "11_LibreCourseUY/TL;DR/v0.1 TLDR.md",
-    "11_LibreCourseUY/TL;DR",
-    "11_LibreCourseUY/Projects",
-    "04_Python/Libraries/matplotlib",
-    "fastapi.tiangolo.com.md",
-    "11_LibreCourseUY/Weekly TLDR.md",
-    "04_Python/Libraries/matplotlib.md",
-    "04_Python/Concepts/Vectors.md",
-    "04_Python/Libraries/Libraries.md",
-    "04_Python/Libraries/pandas.md",
+    "assets/image-darkmodifier/Linear_Algebra-1779056249818_7fa85cac1003_darkmode_dark.png",
+    "assets/image-darkmodifier/Exploratory_Data_Analysis-1778621488934_5e8601c883fe_darkmode_dark.png",
+    "Assets/matplotlib/matplotlib-1778623413216.png",
     "Assets/matplotlib",
-    "03_Data_Science/Data_Exploring/Exploratory Data Analysis.md",
+    "Assets/Problem Set 1.1",
     "Assets/Exploratory Data Analysis",
-    "04_Python/Data_Structures/DataFrame.md",
+    "11_LibreCourseUY/Projects/Initial Challenges.md",
+    "11_LibreCourseUY/Projects/Audit Log Microservices.md",
+    "11_LibreCourseUY/TL;DR/v0.1 TLDR.md",
+    "11_LibreCourseUY/Codenights/09_05_2026.md",
+    "11_LibreCourseUY/Weekly TLDR.md",
+    "11_LibreCourseUY/TL;DR",
+    "11_LibreCourseUY/Projects.md",
+    "11_LibreCourseUY/Projects",
     "11_LibreCourseUY/Codenights.md",
     "11_LibreCourseUY/Codenights",
     "11_LibreCourseUY",
-    "Assets/Merging Data",
-    "assets/image-darkmodifier"
+    "09_Core_Abstractions/Lambda Functions.md",
+    "05_Design_Paradigms/Normalization.md",
+    "04_Python/Libraries/numpy/Multidimensional Slicing.md",
+    "04_Python/Libraries/matplotlib/Format String.md",
+    "04_Python/Libraries/matplotlib",
+    "04_Python/Libraries/matplotlib.md",
+    "03_Data_Science/Data_Exploring/Exploratory Data Analysis.md",
+    "03_Data_Science/Data Acquisition/Synthetic Data.md",
+    "02_Machine_Learning",
+    "00_Index/LibreCourseUY.md",
+    "00_Index/Atomic.md",
+    "08_System_Architecture/Systems Architecture.md",
+    "08_System_Architecture/Databases/Relational_Databases/Primary Key.md",
+    "08_System_Architecture/Databases/Relational_Databases/Junction Table.md",
+    "08_System_Architecture/Databases/Relational_Databases/Index.md"
   ]
 }

@@ -2,8 +2,11 @@
 tags:
   - data-science
   - concept
+  - io
 created: 2026-04-28
 ---
+
+# Data Interpretation
 
 **Data Interpretation** is the step where you **translate** analytical results into **meaningful insight** to make decisions.
 

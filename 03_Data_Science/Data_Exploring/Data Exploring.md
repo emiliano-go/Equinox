@@ -5,6 +5,8 @@ tags:
 created: 2026-04-28
 ---
 
+# Data Exploring
+
 Data exploring focuses on **understanding** data quality, patterns, distributions, and relationships.
 
 There are several data exploration techniques. The most common ones are:

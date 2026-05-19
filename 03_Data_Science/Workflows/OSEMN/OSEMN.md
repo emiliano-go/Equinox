@@ -2,6 +2,8 @@
 tags:
   - data-science
   - concept
+  - workflow
+  - osemn
 created: 2026-04-28
 ---
 

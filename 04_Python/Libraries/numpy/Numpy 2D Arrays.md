@@ -3,8 +3,11 @@ tags:
   - numpy
   - python
   - concept
+  - linear-algebra
 created: 2026-04-28
 ---
+
+# Numpy 2D Arrays
 
 This note covers matrices in Numpy using 2D arrays.
 

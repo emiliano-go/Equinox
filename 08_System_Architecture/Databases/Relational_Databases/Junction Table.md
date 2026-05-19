@@ -2,8 +2,13 @@
 tags:
   - database
   - concept
+  - system-architecture
+  - databases
+  - io
 created: 2026-04-28
 ---
+
+# Junction Table
 
 A **junction table** is a table used to represent a [[Relational Databases#Many-to-Many|Many-to-Many]] relationship between two tables.
 

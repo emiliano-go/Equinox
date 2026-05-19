@@ -1,3 +1,11 @@
+---
+tags:
+  - overview
+created: 2026-05-19
+---
+
+# Initial Challenges
+
 Each challenge was picked to cover a broad range of language features, giving you a solid foundation.
 
 This repository should NOT work as a guide, but as a baseline for you to complete said challenges.
