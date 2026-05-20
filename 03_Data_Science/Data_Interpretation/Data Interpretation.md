@@ -20,7 +20,7 @@ Take into account the accuracy, bias, overfitting and precision of the model you
 
 ### Extract Insights 
 Look for patterns, relationships, anomalies, and make reports.
-
+ 
 ### Connect to Context
 Relate to real world context.
 
@@ -47,3 +47,10 @@ An infographic is used to:
 - Piktochart
 - Figma
 - Lopaka
+
+## Dashboards
+
+**Analytics Dashboards** are visualization tools that show key data and metrics in a single page. This allows users to monitor different aspects of their business/project in real time.
+
+Most dashboards are made with Power BI, Tableau, Looker Studio or `matplotlib`.
+
