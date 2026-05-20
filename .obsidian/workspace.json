@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Machine_Learning/Machine Learning.md",
+                "file": "07_Math/Information Gain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "Information Gain"
             }
           }
         ],
@@ -201,23 +201,27 @@
   },
   "active": "77fd6721fee05545",
   "lastOpenFiles": [
-    "02_Machine_Learning/Machine_Learning/Reinforced Learning.md",
-    "02_Machine_Learning/Machine Learning.md",
-    "02_Machine_Learning/Machine_Learning/Unsupervised Learning.md",
+    "02_Machine_Learning/Machine_Learning/Supervised Learning.md",
+    "07_Math/Entropy.md",
+    "07_Math/Information Gain.md",
+    "07_Math/Sigmoid Function.md",
+    "07_Math/Cross-entropy Loss.md",
     "07_Math/Linear_Algebra/Linear Algebra.md",
+    "assets/image-darkmodifier/Supervised_Learning-1779298967143_862fb8a7b7ac_darkmode_dark.png",
+    "Assets/Supervised Learning/Supervised Learning-1779298967143.png",
+    "assets/image-darkmodifier/Supervised_Learning-1779249245616_3148cca5273e_darkmode_dark.png",
+    "assets/image-darkmodifier/Supervised_Learning-1779246397184_e48a5c71fee5_darkmode_dark.png",
+    "assets/image-darkmodifier/Supervised_Learning-1779242318975_df79e6d08350_darkmode_dark.png",
+    "assets/image-darkmodifier/Supervised_Learning-1779241570481_1431367dbe99_darkmode_dark.png",
+    "assets/image-darkmodifier/Supervised_Learning-1779235220367_a1a5d6df482b_darkmode_dark.png",
+    "02_Machine_Learning/Machine Learning.md",
+    "02_Machine_Learning/Machine_Learning/Reinforced Learning.md",
+    "02_Machine_Learning/Machine_Learning/Unsupervised Learning.md",
     "02_Machine_Learning/Machine_Learning",
     "02_Machine_Learning/Modeling.md",
-    "02_Machine_Learning/Machine_Learning/Supervised Learning.md",
     "assets/image-darkmodifier/matplotlib-1778623413216_2caf1d31431c_darkmode_dark.png",
     "assets/image-darkmodifier/matplotlib-1778623383295_a206c2843117_darkmode_dark.png",
     "assets/image-darkmodifier/Problem_Set_1_1-1778810047975_029c57125581_darkmode_dark.png",
-    "assets/image-darkmodifier/Problem_Set_1_1-1778810041935_b7b4f52ffb03_darkmode_dark.png",
-    "assets/image-darkmodifier/Problem_Set_1_1-1778810037348_424e130946cd_darkmode_dark.png",
-    "assets/image-darkmodifier/Problem_Set_1_1-1778810030539_1d39a2ba51ab_darkmode_dark.png",
-    "assets/image-darkmodifier/Problem_Set_1_1-1778810013214_02ac4168d5aa_darkmode_dark.png",
-    "assets/image-darkmodifier/Linear_Algebra-1779056249818_7fa85cac1003_darkmode_dark.png",
-    "assets/image-darkmodifier/Exploratory_Data_Analysis-1778621488934_5e8601c883fe_darkmode_dark.png",
-    "Assets/matplotlib/matplotlib-1778623413216.png",
     "Assets/matplotlib",
     "Assets/Problem Set 1.1",
     "Assets/Exploratory Data Analysis",
@@ -242,10 +246,6 @@
     "03_Data_Science/Data Acquisition/Synthetic Data.md",
     "02_Machine_Learning",
     "00_Index/LibreCourseUY.md",
-    "00_Index/Atomic.md",
-    "08_System_Architecture/Systems Architecture.md",
-    "08_System_Architecture/Databases/Relational_Databases/Primary Key.md",
-    "08_System_Architecture/Databases/Relational_Databases/Junction Table.md",
-    "08_System_Architecture/Databases/Relational_Databases/Index.md"
+    "00_Index/Atomic.md"
   ]
 }

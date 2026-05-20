@@ -55,3 +55,12 @@ The goal is to **optimize** $b$ and $w$ that minimize the **square error**, betw
 It uses the [[Sigmoid Function]] to **transform** the linear model output into a **probability**, giving a value of 0 and 1.
 
 To **train** this model, we find the **optimal** values of weights and bias by **minimizing** the [[Cross-entropy Loss]], that measures how close the **obtained** probabilities are to the **true** ones.
+
+### Decision Trees
+**Tree-based algorithm** that can be used for both regression and classification. It makes predictions by splitting data **step by step** through **decisions**.
+
+
+![[Supervised Learning-1779298967143.png|@darkmode]]
+Each **node** represents a decision point, and each **edge** represents the path the data takes based on the answer to that question. Eventually the data reaches a **leaf**, which determines the final decision.
+
+The decision tree calculates chooses its decisions by calculating the [[Information Gain|information gain]], the different in the degree of mixing of the data before and after splitting.
