@@ -7,6 +7,7 @@ created: 2026-05-19
 # Codenights
 
 [[09_05_2026]]
+[[16_08_2026]]
 
 This section shows a log of every Codenight.
 
@@ -22,4 +23,4 @@ Even though Codenights started earlier, the first registered Codenight will be 0
 
   
 
-Feel free to join us any saturday, starting at 1800, on our [Discord server](https://discord.gg/ENTX7nQ9Cs).
+Feel free to join us any Saturday, starting at 1800, on our [Discord server](https://discord.gg/ENTX7nQ9Cs).
