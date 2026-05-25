@@ -1,3 +1,27 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+:root {
+  --color-surface: #d5e3de;
+  --color-text-head: #020a08;
+  --color-text-bright: #04120e;
+}
+
+:root[saved-theme="dark"] {
+  --color-surface: #161d1d;
+  --color-text-head: #e4efea;
+  --color-text-bright: #c8ddd8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-text-head);
+}
+
+.popover,
+.search,
+.explorer {
+  background-color: var(--color-surface);
+}
+
+a:hover {
+  color: var(--color-text-bright);
+}
