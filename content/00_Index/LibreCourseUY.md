@@ -21,29 +21,7 @@ In this page, we document everything we do, from codenights, events, project (an
 
   
 
-<div style="
-
-border-left: 4px solid;
-
-border-color: #d1242f;
-
-background-color: color-mix(in srgb, #d1242f 10%, transparent);
-
-padding: 8px 16px;
-
-border-radius: 0 6px 6px 0;
-
-display: flex;
-
-gap: 8px;
-
-align-items: flex-start;
-
-color: inherit;
-
-margin-bottom: 1rem;
-
-">
+<div style="border-left: 4px solid; border-color: #d1242f; background-color: color-mix(in srgb, #d1242f 10%, transparent); padding: 8px 16px; border-radius: 0 6px 6px 0; display: flex; gap: 8px; align-items: flex-start; color: inherit; margin-bottom: 1rem;">
 
 <span style="color: #d1242f; font-size: 1em; line-height: 1.6;">⚠</span>
 
@@ -83,4 +61,4 @@ Yours truly,
 
 - The Editor
 
-<br></br>
+<br>
