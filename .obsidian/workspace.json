@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "03bf465f999c83af",
+        "id": "811a55db43be8d58",
         "type": "tabs",
         "children": [
           {
-            "id": "1d901b8c5e5fa8c2",
+            "id": "309ceedd12b41b62",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_Math/Linear_Algebra/Linear Algebra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Algebra"
-            }
-          },
-          {
-            "id": "d14a12e0788a3386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_Math/Information Gain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Information Gain"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master.md",
+                "file": "05_Design_Paradigms/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Master"
+              "title": "Backlinks for Normalization"
             }
           },
           {
@@ -199,53 +182,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77fd6721fee05545",
+  "active": "309ceedd12b41b62",
   "lastOpenFiles": [
-    "02_Machine_Learning/Machine_Learning/Supervised Learning.md",
-    "07_Math/Entropy.md",
-    "07_Math/Information Gain.md",
-    "07_Math/Sigmoid Function.md",
-    "07_Math/Cross-entropy Loss.md",
-    "07_Math/Linear_Algebra/Linear Algebra.md",
-    "assets/image-darkmodifier/Supervised_Learning-1779298967143_862fb8a7b7ac_darkmode_dark.png",
-    "Assets/Supervised Learning/Supervised Learning-1779298967143.png",
-    "assets/image-darkmodifier/Supervised_Learning-1779249245616_3148cca5273e_darkmode_dark.png",
-    "assets/image-darkmodifier/Supervised_Learning-1779246397184_e48a5c71fee5_darkmode_dark.png",
-    "assets/image-darkmodifier/Supervised_Learning-1779242318975_df79e6d08350_darkmode_dark.png",
-    "assets/image-darkmodifier/Supervised_Learning-1779241570481_1431367dbe99_darkmode_dark.png",
-    "assets/image-darkmodifier/Supervised_Learning-1779235220367_a1a5d6df482b_darkmode_dark.png",
-    "02_Machine_Learning/Machine Learning.md",
-    "02_Machine_Learning/Machine_Learning/Reinforced Learning.md",
-    "02_Machine_Learning/Machine_Learning/Unsupervised Learning.md",
-    "02_Machine_Learning/Machine_Learning",
-    "02_Machine_Learning/Modeling.md",
-    "assets/image-darkmodifier/matplotlib-1778623413216_2caf1d31431c_darkmode_dark.png",
-    "assets/image-darkmodifier/matplotlib-1778623383295_a206c2843117_darkmode_dark.png",
-    "assets/image-darkmodifier/Problem_Set_1_1-1778810047975_029c57125581_darkmode_dark.png",
-    "Assets/matplotlib",
-    "Assets/Problem Set 1.1",
-    "Assets/Exploratory Data Analysis",
-    "11_LibreCourseUY/Projects/Initial Challenges.md",
-    "11_LibreCourseUY/Projects/Audit Log Microservices.md",
-    "11_LibreCourseUY/TL;DR/v0.1 TLDR.md",
+    "11_LibreCourseUY/Codenights/16_08_2026.md",
+    "11_LibreCourseUY/Codenights/23_05_2026.md",
+    "blog.librecourse..md",
     "11_LibreCourseUY/Codenights/09_05_2026.md",
     "11_LibreCourseUY/Weekly TLDR.md",
-    "11_LibreCourseUY/TL;DR",
-    "11_LibreCourseUY/Projects.md",
-    "11_LibreCourseUY/Projects",
     "11_LibreCourseUY/Codenights.md",
-    "11_LibreCourseUY/Codenights",
-    "11_LibreCourseUY",
-    "09_Core_Abstractions/Lambda Functions.md",
-    "05_Design_Paradigms/Normalization.md",
-    "04_Python/Libraries/numpy/Multidimensional Slicing.md",
-    "04_Python/Libraries/matplotlib/Format String.md",
+    "11_LibreCourseUY/TL;DR/v0.3.md",
+    "02_Machine_Learning/Machine_Learning/Supervised Learning.md",
+    "07_Math/Cross-entropy Loss.md",
+    "Squared Error.md",
+    "Mean Squared Error.md",
+    "assets/image-darkmodifier/Supervised_Learning-1779377868253_76775772846a_darkmode_dark.png",
+    "Assets/Supervised Learning/Supervised Learning-1779377868253.png",
+    "Assets/Supervised Learning/Supervised Learning-1779249245616.png",
+    "Assets/Supervised Learning/Supervised Learning-1779246397184.png",
+    "Assets/Supervised Learning/Supervised Learning-1779242318975.png",
+    "Assets/Supervised Learning/Supervised Learning-1779241570481.png",
+    "assets/image-darkmodifier/Supervised_Learning-1779249245616_3148cca5273e_darkmode_dark.png",
+    "assets/image-darkmodifier/Supervised_Learning-1779248291807_b0a2627f6d59_darkmode_dark.png",
+    "assets/image-darkmodifier/Supervised_Learning-1779246397184_e48a5c71fee5_darkmode_dark.png",
+    "07_Math/Information Gain.md",
+    "07_Math/Entropy.md",
+    "07_Math/Sigmoid Function.md",
+    "07_Math/Logarithm.md",
+    "Assets/Data Interpretation/Data Interpretation-1779166593497.png",
+    "Vault Index.md",
+    "Assets/Supervised Learning",
+    "03_Data_Science/Data_Interpretation/Data Interpretation.md",
+    "Assets/Data Interpretation",
+    "02_Machine_Learning/Machine_Learning/Unsupervised Learning.md",
+    "02_Machine_Learning/Machine_Learning/Reinforced Learning.md",
+    "02_Machine_Learning/Machine_Learning",
+    "07_Math/Linear_Algebra/Linear Algebra.md",
+    "03_Data_Science/Data_Processing/Data Processing.md",
+    "03_Data_Science/Data_Exploring/Data Exploring.md",
+    "00_Index/Data Science.md",
+    "02_Machine_Learning/Machine Learning.md",
+    "02_Machine_Learning/Modeling.md",
+    "08_System_Architecture/Databases/Relational Databases.md",
+    "Assets/Problem Set 1.1",
+    "11_LibreCourseUY/TL;DR",
+    "11_LibreCourseUY/Projects",
     "04_Python/Libraries/matplotlib",
-    "04_Python/Libraries/matplotlib.md",
-    "03_Data_Science/Data_Exploring/Exploratory Data Analysis.md",
-    "03_Data_Science/Data Acquisition/Synthetic Data.md",
-    "02_Machine_Learning",
-    "00_Index/LibreCourseUY.md",
-    "00_Index/Atomic.md"
+    "Assets/matplotlib",
+    "Assets/Exploratory Data Analysis",
+    "11_LibreCourseUY/Codenights"
   ]
 }
