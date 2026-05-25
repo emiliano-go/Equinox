@@ -3,7 +3,7 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm ci
 COPY . .
-RUN npx quartz build
+RUN node ./quartz/bootstrap-cli.mjs build
 
 FROM nginx:alpine
 COPY --from=builder /app/public /usr/share/nginx/html
