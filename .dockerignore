@@ -1,0 +1,8 @@
+node_modules
+.git
+.github
+.gitattributes
+.obsidian
+README.md
+LICENSE
+quartz/.quartz-cache
