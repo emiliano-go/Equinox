@@ -21,6 +21,10 @@ h1, h2, h3, h4, h5, h6 {
   background-color: var(--color-surface);
 }
 
+.search .search-button p {
+  color: var(--darkgray);
+}
+
 a:hover {
   color: var(--color-text-bright);
 }
