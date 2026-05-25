@@ -46,6 +46,6 @@ jobs:
 
           provenance: false
 
-          tags: ghcr.io/emiliano-gandini-outeda/${{ github.event.repository.name }}:latest
+          tags: ghcr.io/emiliano-gandini-outeda/equinox:latest
 
 
