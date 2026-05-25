@@ -3,3 +3,5 @@
 .obsidian/workspace.json
 .cache/
 /node_modules
+/public
+/quartz/.quartz-cache
