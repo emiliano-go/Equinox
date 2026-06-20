@@ -48,7 +48,7 @@ Example:
 - This is one **tuple** in `Students`
 
 ### Indexes
-An [[Index]] is an **auxiliary data structure** associated with a **table** that allows faster lookup of tuples based on one or more attributes.
+An [[08_System_Architecture/Databases/Relational_Databases/Index|Index]] is an **auxiliary data structure** associated with a **table** that allows faster lookup of tuples based on one or more attributes.
 
 ### **Key properties**
 
