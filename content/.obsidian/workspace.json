@@ -10,18 +10,31 @@
           {
             "id": "309ceedd12b41b62",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "567434abe9847575",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Design_Paradigms/Reliability.md",
+                "file": "07_Math/Linear_Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reliability"
+              "title": "Linear Algebra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e242d1474fd531f",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Design_Paradigms/Reliability.md",
+                "file": "07_Math/Linear_Algebra/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reliability"
+              "title": "Backlinks for Linear Algebra"
             }
           },
           {
@@ -174,27 +188,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "omnisearch:Omnisearch": false
+      "bases:Create new base": false
     }
   },
-  "active": "309ceedd12b41b62",
+  "active": "567434abe9847575",
   "lastOpenFiles": [
-    "Faults.md",
-    "05_Design_Paradigms/Reliability.md",
-    "05_Design_Paradigms/Design Paradigms.md",
-    "05_Design_Paradigms/Normalization.md",
-    "07_Math/Entropy.md",
+    "assets/image-darkmodifier/Linear_Algebra-1779056249818_7fa85cac1003_darkmode_dark.png",
+    "assets/image-darkmodifier/Linear_Algebra-1777929856834_0421c5bbce55_darkmode_dark.png",
+    "assets/image-darkmodifier/Linear_Algebra-1777926345664_560fd133b7c9_darkmode_dark.png",
+    "07_Math/Linear_Algebra/Collinearity.md",
     "06_Statistical_Analysis/Squared Error.md",
     "06_Statistical_Analysis/Mean Squared Error.md",
-    "Squared Error.md",
-    "Mean Squared Error.md",
+    "05_Design_Paradigms/Reliability.md",
+    "05_Design_Paradigms/Faults.md",
+    "Information.md",
+    "Mean.md",
+    "Median.md",
+    "03_Data_Science/Data_Exploring/Exploratory Data Analysis.md",
+    "assets/image-darkmodifier/Exploratory_Data_Analysis-1778621488934_5e8601c883fe_darkmode_dark.png",
     "08_System_Architecture/Databases/Relational Databases.md",
     "08_System_Architecture/Databases/Relational_Databases/Index.md",
     "11_LibreCourseUY/Codenights/16_08_2026.md",
@@ -206,6 +224,8 @@
     "11_LibreCourseUY/TL;DR/v0.3.md",
     "02_Machine_Learning/Machine_Learning/Supervised Learning.md",
     "07_Math/Cross-entropy Loss.md",
+    "Squared Error.md",
+    "Mean Squared Error.md",
     "assets/image-darkmodifier/Supervised_Learning-1779377868253_76775772846a_darkmode_dark.png",
     "Assets/Supervised Learning/Supervised Learning-1779377868253.png",
     "Assets/Supervised Learning/Supervised Learning-1779249245616.png",
@@ -213,17 +233,11 @@
     "Assets/Supervised Learning/Supervised Learning-1779242318975.png",
     "Assets/Supervised Learning/Supervised Learning-1779241570481.png",
     "assets/image-darkmodifier/Supervised_Learning-1779249245616_3148cca5273e_darkmode_dark.png",
-    "assets/image-darkmodifier/Supervised_Learning-1779248291807_b0a2627f6d59_darkmode_dark.png",
-    "assets/image-darkmodifier/Supervised_Learning-1779246397184_e48a5c71fee5_darkmode_dark.png",
     "07_Math/Information Gain.md",
+    "07_Math/Entropy.md",
     "07_Math/Sigmoid Function.md",
-    "07_Math/Logarithm.md",
-    "Assets/Data Interpretation/Data Interpretation-1779166593497.png",
-    "Vault Index.md",
     "Assets/Supervised Learning",
-    "03_Data_Science/Data_Interpretation/Data Interpretation.md",
     "Assets/Data Interpretation",
-    "02_Machine_Learning/Machine_Learning/Unsupervised Learning.md",
     "02_Machine_Learning/Machine_Learning",
     "Assets/Problem Set 1.1",
     "11_LibreCourseUY/TL;DR",
