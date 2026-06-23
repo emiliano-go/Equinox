@@ -1,3 +1,10 @@
+---
+tags:
+  - mathematics
+  - error-metrics
+created: 2026-05-26
+---
+
 **Squared error** is the square of the difference between a predicted value and the true value.
 $$(y-ŷ)²$$
 Where:

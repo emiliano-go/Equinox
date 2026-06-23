@@ -1,3 +1,11 @@
+---
+tags:
+  - statistics
+  - error-metrics
+  - mse
+created: 2026-06-20
+---
+
 In [[06_Statistical_Analysis/Statistical Analysis|Statistical Analysis]], the **Mean Squared Error** (MSE), also called **Mean  Squared Deviation** (MSD), of an [[Estimator|estimator]] measures the **average** of the square of the errors. This is the average [[Squared Difference|squared difference]] between the **estimated** values and the [[True Value|true value]].
 
 **MSE** is a [[Risk Function|risk function]], corresponding to the expected value of the [[Squared Error Loss]]. It's a measure of quality of the estimator. 

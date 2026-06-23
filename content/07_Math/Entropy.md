@@ -1,3 +1,11 @@
+---
+tags:
+  - math
+  - entropy
+  - information-theory
+created: 2026-05-26
+---
+
 **Entropy** is a measure of the **expected uncertainty** (or information content) of a random variable.
 $$
 H(X) = -\sum_{i=1}^{n} P(x_i)\log_2 P(x_i)

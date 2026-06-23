@@ -1,3 +1,11 @@
+---
+tags:
+  - math
+  - sigmoid
+  - activation-functions
+created: 2026-05-26
+---
+
 # Sigmoid Function
 
 The sigmoid function is the **activation** function used in [[Supervised Learning#Logistic Regression|logistic regression]] to transform a **linear combination of inputs** into a **probability between 0 and 1**. First, the model computes a **weighted sum** of the features plus a bias term, often written as $z = w^T x + b$. This value $z$ can be **any real number**, positive or negative. The sigmoid function then **maps** that number into the range $(0,1),$ making it interpretable as the **probability** that the input belongs to class 1.

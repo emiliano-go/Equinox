@@ -1,3 +1,11 @@
+---
+tags:
+  - math
+  - information-gain
+  - decision-trees
+created: 2026-05-26
+---
+
 **Information Gain** (IG) is a measure used in [[Supervised Learning#Decision Trees|Decision Trees]] to quantify how much a **feature** reduces **uncertainty** ([[Entropy]]). about the target variable after splitting the data.
 
 **Mathematically**, is the **difference** between the entropy **before** the split and the **weighted entropy after** the split. A high IG means the feature creates a split that separates the classes well, making the data more "organized" and easier to classify. 

@@ -1,3 +1,11 @@
+---
+tags:
+  - math
+  - cross-entropy
+  - machine-learning
+created: 2026-05-26
+---
+
 # Cross-entropy Loss
 
 Cross-entropy loss is the function used in [[Supervised Learning#Logistic Regression|Logistic Regression]] to measure how well the model’s predicted **probabilities** match the **true** labels. Instead of simply checking whether a prediction is correct or incorrect, it evaluates **how confident** the model was. If the true label is 1 and the model predicts a probability close to 1, the loss is very small. If the model predicts a probability close to 0 for that same case, the loss becomes very large. This makes cross-entropy especially useful because it strongly **penalizes** confident wrong predictions.
