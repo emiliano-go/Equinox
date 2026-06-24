@@ -16,7 +16,7 @@ Since relational databases don't support N:M relationships directly, you **decom
 
 ### Structure
 A junction table typically contains:
-- [[08_System_Architecture/Databases/Relational_Databases/Foreign key|Foreign Keys]] to both related tables
+- [[08_System_Architecture/Databases/Relational Databases/Foreign key|Foreign Keys]] to both related tables
 - Often a **composite primary key** made from those foreign keys
 
 ### Example
