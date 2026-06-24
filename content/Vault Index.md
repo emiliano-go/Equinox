@@ -13,4 +13,4 @@ created: 2026-04-18
 - [[00_Index/Computer Science|Computer Science]]
 - [[00_Index/Atomic|Atomic Definitions]]
 - [[00_Index/Math|Math]]
-- [[LibreCourseUY]]
+- [[00_Index/LibreCourseUY|LibreCourseUY]]
