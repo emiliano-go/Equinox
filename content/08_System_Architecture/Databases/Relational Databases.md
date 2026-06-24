@@ -48,7 +48,7 @@ Example:
 - This is one **tuple** in `Students`
 
 ### Indexes
-An [[08_System_Architecture/Databases/Relational_Databases/Index|Index]] is an **auxiliary data structure** associated with a **table** that allows faster lookup of tuples based on one or more attributes.
+An [[08_System_Architecture/Databases/Relational Databases/Index|Index]] is an **auxiliary data structure** associated with a **table** that allows faster lookup of tuples based on one or more attributes.
 
 ### **Key properties**
 
@@ -75,7 +75,7 @@ In a relational model, **relationships** describe how tuples in one table are as
 Each tuple in A is related to **at most one** tuple in B, and vice versa.
 - Example: Person <--> Passport
 
-Implementation: [[08_System_Architecture/Databases/Relational_Databases/Foreign key|Foreign Key]] with a unique [[Constraint]]. 
+Implementation: [[08_System_Architecture/Databases/Relational Databases/Foreign key|Foreign Key]] with a unique [[Constraint]]. 
 
 **Meaning**: each entity participates in **at most one** relationship instance.
 
@@ -84,7 +84,7 @@ Implementation: [[08_System_Architecture/Databases/Relational_Databases/Foreign 
 One tuple in A can relate to **many** tuples in B, but each tuple in B relates to **one** in A.
 - Example: Company <--> Employees
 
-Implementation: Foreign key goes in the **"many" side**. It usually is the [[08_System_Architecture/Databases/Relational_Databases/Primary Key|primary key]].
+Implementation: Foreign key goes in the **"many" side**. It usually is the [[08_System_Architecture/Databases/Relational Databases/Primary Key|primary key]].
 
 ```
 Employees(company_id → Company.id)
