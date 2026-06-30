@@ -74,3 +74,103 @@ May have:
 - No mode
 - One mode
 - Multiple modes
+
+### Measures of Dispersion: Variability
+These tell you **how spread** out the data is. Two datasets may have the same mean but completely different variability.
+
+#### Range
+
+Difference between maximum and minimum. $$\text{Range} = \text{Max}-\text{Min}$$
+-> 1, 3, 8, 10
+-> Range = 9
+
+##### Usefulness
+Quick estimate of spread
+
+##### Use Cases
+- Temperature variation
+- Price ranges
+- Delivery times
+
+##### Limitations
+Depends only on two observations.
+
+#### Variance
+See [[Variance]].
+
+##### Usefulness
+Fundamental measure of variability.
+
+##### Use Cases
+- Risk analysis
+- Quality control
+- Machine learning
+- Statistical modeling
+
+##### Limitations
+Units become squared. This makes interpretation difficult.
+
+#### Standard Deviation
+See [[Standard Deviation]]
+
+##### Intuition
+
+Represents the typical distance from the mean. **Example**:
+
+- Average sales:
+	-> $2,000
+- Standard deviation:
+	-> $500
+- Interpretation:
+	-> Most observations tend to lie around ±$500 from the average.
+
+##### Usefulness
+The most important measure of variability.
+
+##### Use Cases
+- Sales volatility
+- Stock risk
+- Manufacturing consistency
+- Academic performance
+
+#### Interquartile Range: IQR
+
+Difference between: $$ IQR=Q 3-Q 1$$
+Contains the middle 50% of observations.
+##### Usefulness
+Measures spread while ignoring outliers.
+
+##### Use Cases
+- Income analysis
+- Sales analysis
+- Outlier detection
+
+### Measures of Position
+These indicate where an observation lies relative to others.
+
+#### Minimum
+Smallest observation.
+
+#### Maximum
+Largest observation.
+
+#### Quartiles
+Divide data into four equal parts.
+- Q1 = 25th percentile
+- Q2 = Median
+- Q3 = 75th percentile
+
+##### Usefulness
+Describe how values are distributed.
+
+##### Use Cases
+- Salary analysis
+- Exam scores
+- Customer spending
+
+#### Percentiles
+Divide data into 100 parts.
+
+-> 90 th percentile:
+\>\> A value larger than 90% of observations.
+
