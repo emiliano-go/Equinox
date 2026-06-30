@@ -10,7 +10,7 @@ created: 2026-04-28
 
 # Foreign key
 
-A **foreign key** is an attribute in one table that **references the [[Primary Key]]** of another table.
+A **foreign key** is an attribute in one table that **references the [[Primary Key]]** of another table. This creates a [[Relationships|relationship]] between two tables.
 
 #### Internal Behavior
 When you insert/update:
