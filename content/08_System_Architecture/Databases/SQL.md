@@ -1,3 +1,11 @@
+---
+tags:
+  - sql
+  - databases
+  - concept
+created: 2026-04-28
+---
+
 SQL stands for **Structured Query Language**. It is the standard language to communicate with [[Relational Databases]]. It's used to read, manipulate and manage data stored in tables.
 
 ### Basic Queries
