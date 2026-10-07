@@ -6,6 +6,7 @@ tags:
 created: 2026-04-16
 ---
 
+cd
 # Data Types
 
 Core data types in Python.

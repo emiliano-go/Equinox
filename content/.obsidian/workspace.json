@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,6 +188,7 @@
   },
   "active": "f0be772823190857",
   "lastOpenFiles": [
+    "08_System_Architecture/Databases/SQL.md",
     "SQL.md",
     "05_Design_Paradigms/Reliability.md",
     "08_System_Architecture/Databases/Relational Databases/Foreign key.md",
@@ -217,7 +220,6 @@
     "11_LibreCourseUY/Codenights/16_08_2026.md",
     "11_LibreCourseUY/Codenights/23_05_2026.md",
     "blog.librecourse..md",
-    "11_LibreCourseUY/Codenights/09_05_2026.md",
     "assets/image-darkmodifier/Supervised_Learning-1779377868253_76775772846a_darkmode_dark.png",
     "Assets/Supervised Learning/Supervised Learning-1779377868253.png",
     "Assets/Supervised Learning/Supervised Learning-1779249245616.png",
