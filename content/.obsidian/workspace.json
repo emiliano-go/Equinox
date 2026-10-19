@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Data Types"
             }
+          },
+          {
+            "id": "847f15d87e7183c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e242d1474fd531f",
@@ -186,15 +198,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f0be772823190857",
+  "active": "847f15d87e7183c7",
   "lastOpenFiles": [
+    "Analyzing Data with Pandas.md",
+    "07_Math/Fourier Series.md",
+    "03_Data_Science/Data_Processing/Analyzing Data with Pandas.md",
+    "03_Data_Science/Data_Processing/Missing Data.md",
+    "Missing Data.md",
+    "04_Python/Data_Types/Data Types.md",
+    "Fourier Series.md",
     "08_System_Architecture/Databases/SQL.md",
     "SQL.md",
     "05_Design_Paradigms/Reliability.md",
     "08_System_Architecture/Databases/Relational Databases/Foreign key.md",
     "08_System_Architecture/Databases/Relational Databases.md",
     "08_System_Architecture/Databases/Relational Databases/Index.md",
-    "Untitled.md",
     "assets/image-darkmodifier/Linear_Algebra-1779056249818_7fa85cac1003_darkmode_dark.png",
     "assets/image-darkmodifier/Linear_Algebra-1777929856834_0421c5bbce55_darkmode_dark.png",
     "assets/image-darkmodifier/Linear_Algebra-1777926345664_560fd133b7c9_darkmode_dark.png",
@@ -214,12 +232,6 @@
     "07_Math/Entropy.md",
     "06_Statistical_Analysis/Squared Error.md",
     "06_Statistical_Analysis/Mean Squared Error.md",
-    "Squared Error.md",
-    "Mean Squared Error.md",
-    "08_System_Architecture/Databases/Relational_Databases/Index.md",
-    "11_LibreCourseUY/Codenights/16_08_2026.md",
-    "11_LibreCourseUY/Codenights/23_05_2026.md",
-    "blog.librecourse..md",
     "assets/image-darkmodifier/Supervised_Learning-1779377868253_76775772846a_darkmode_dark.png",
     "Assets/Supervised Learning/Supervised Learning-1779377868253.png",
     "Assets/Supervised Learning/Supervised Learning-1779249245616.png",
